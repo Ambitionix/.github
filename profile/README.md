@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 🌟 Welcome to Secret Society
 
 <p align="center">
