@@ -1,11 +1,11 @@
-# 🌟 Welcome to Secret Society
+# 🌟 Welcome to Ambitionix
 
 <p align="center">
   <img src="https://your-logo-url.com/logo.png" alt="Organization Logo" width="200"/>
 </p>
 
 ## 🚀 About Us  
-Welcome to **Secret Society**, where innovation meets technology. We are a community of developers, designers, and enthusiasts dedicated to creating impactful open-source projects and cutting-edge solutions.  
+Welcome to **Ambitionix**, where innovation meets technology. We are a community of developers, designers, and enthusiasts dedicated to creating impactful open-source projects and cutting-edge solutions.  
 
 Our focus areas:  
 - **Web Development**: Full-stack frameworks, libraries, and tools.  
