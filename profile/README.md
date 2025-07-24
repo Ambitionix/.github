@@ -1,7 +1,7 @@
 # 🌟 Welcome to Ambitionix
 
 <p align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="Organization Logo" width="200"/>
+  <img src="https://d3csfa23ceumia.cloudfront.net/icon/Logo-01.png" alt="Organization Logo" width="200"/>
 </p>
 
 ## 🚀 About Us  
